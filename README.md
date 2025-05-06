@@ -12,7 +12,7 @@ I thrive in collaborative environments and always seek new opportunities to inno
 <br /><br />
 For more info, refer to: https://raphaelmatori.github.io/curriculum/
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/raphaelmatori) [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaelmatori@hotmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/raphaelmatori) [![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=outlook-email&logoColor=white)](mailto:raphaelmatori@hotmail.com)
 
 ![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelmatori&show_icons=true&theme=radical)
 
