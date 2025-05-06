@@ -24,4 +24,6 @@ For more info, refer to: https://raphaelmatori.github.io/curriculum/
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: raphaelmatori@hotmail.com
 - 😄 Pronouns: He/Him
--->
+<br/><br/>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=raphaelmatori)
+
