@@ -1,16 +1,12 @@
 ## Hello there, I'm Raphael Matori 👋🏻
 
-### **Senior Full-Stack Developer** 💻 [Angular | Java | Node]
+### **Senior Full-Stack Developer** 💻 [SWE | Software Engineer | Java | Angular | Node.js | React]
 
-With over 14 years of experience as a developer, I have a strong interest in technology and an insatiable hunger for solving complex problems. 
+Full Stack Software Engineer delivering end-to-end features used by tens of thousands of users. Strong focus on production stability, security, and measurable system improvements.
 <br /><br />
-I specialize in front-end development, with expertise in Angular and JavaScript, and I am always looking for new ways to create dynamic and user-friendly interfaces. 
+Experienced in Java, JavaScript/TypeScript, Angular and React, with hands-on ownership from design to live operations.
 <br /><br />
-Whether I'm building scalable software solutions or keeping up with the latest industry trends, I am committed to positively impacting the world. 
-<br /><br />
-I thrive in collaborative environments and always seek new opportunities to innovate and push boundaries.
-<br /><br />
-For more info, refer to: https://raphaelmatori.github.io/curriculum/
+For more info, refer to: https://raphaelmatori.com
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/raphaelmatori) [![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=outlook-email&logoColor=white)](mailto:raphaelmatori@hotmail.com)
 
