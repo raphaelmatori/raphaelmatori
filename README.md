@@ -21,7 +21,7 @@ For more info, refer to: https://raphaelmatori.github.io/curriculum/
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=react&logoColor=white) ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 - 🔭 I’m currently working on a consultancy company :)
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning a few things (Clean Architecture / DDD / System Design)
 - 📫 How to reach me: raphaelmatori@hotmail.com
 - 😄 Pronouns: He/Him
 <br/><br/>
